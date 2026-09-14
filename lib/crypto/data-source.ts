@@ -64,4 +64,3 @@ export async function fetchMarket(currency: Currency, forceRefresh = false): Pro
   marketCache.set(currency, { savedAt: Date.now(), assets });
   return assets;
 }
-

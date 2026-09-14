@@ -32,4 +32,3 @@ export type ForecastPoint = {
   lower80: number;
   upper80: number;
 };
-

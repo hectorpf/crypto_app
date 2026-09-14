@@ -167,4 +167,3 @@ npm start
 - “Tiempo real” significa consulta bajo demanda y refresco periódico cada 60 segundos; no es un feed de trading por WebSocket.
 - CoinGecko aplica límites de uso a su API pública. Un estado 429 se muestra como indisponibilidad y no se maquilla con datos falsos.
 - Los resultados del forecast son una extrapolación educativa muy sensible a la ventana elegida y no una recomendación de inversión.
-

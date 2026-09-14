@@ -26,4 +26,3 @@ export function buildForecast(history: PricePoint[], historicalDays: number, hor
     };
   });
 }
-

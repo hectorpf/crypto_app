@@ -30,4 +30,3 @@ export function calculateChartSeries(points: PricePoint[], window = 7): ChartPoi
     };
   });
 }
-
